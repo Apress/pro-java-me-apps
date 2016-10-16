@@ -1,0 +1,48 @@
+# Some localization examples
+some.key
+This is the value of “some.key” , and here --> {@} <-- is the parameter
+
+some.key:1
+This is the value for when the parameter is 1
+
+some.key:a string value
+This is the value for when the parameter is “a string value”
+
+# New email stuff
+new.email
+You have {@} new emails.
+
+new.email:0
+No new emails
+
+new.email:1
+One new email
+
+# Default date format
+format.date
+D, d/m/y
+
+# Week day names
+weekdays.names:1
+Monday
+
+weekdays.names:2
+Tuesday
+
+weekdays.names:3
+Wednesday
+
+weedays.names:4
+Thursday
+
+weekdays.names:5
+Friday
+
+weekdays.names:6
+Saturday
+
+weekdays.names:7
+Sunday
+
+weekdays.names:0
+Unknown

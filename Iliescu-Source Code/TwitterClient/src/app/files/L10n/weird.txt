@@ -1,0 +1,38 @@
+text.general.ok
+Okay
+
+text.general.cancel
+Nope
+
+tweets.new.prompt
+Ooooh, letters
+
+tweets.next.label
+More, give me more!
+
+settings.form.button.label
+Incantations
+
+username.text
+Who ?
+
+password.text
+Identify yourself, intruder!
+
+login.button.text
+Go in
+
+text.general.language.1
+Boring language
+
+text.general.language.2
+Fun language
+
+text.general.goback
+Baaaack!
+
+text.general.exit
+Buh-bye!
+
+text.general.logout
+Forget me!
